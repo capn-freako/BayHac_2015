@@ -44,7 +44,7 @@ main :: IO()
 main = do
     putStrLn "Attempting to decode 'kdvnhoo lv ixq', using frequency analysis..."
     putStrLn $ crack "kdvnhoo lv ixq"
-    let ciphertext = vcipher "bayhac" plaintext
+    let ciphertext = vcipher "bayhc" plaintext
     putStrLn ""
     putStrLn "Attempting to decode:"
     putStrLn ""

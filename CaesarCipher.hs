@@ -4,7 +4,9 @@
 -- Note        : Provides encryption/decryption, via Caesar cipher.
 -- 
 -- This module contains the functions necessary to support encryption/decryption,
--- using the Caesar cipher. The code is taken directly from Graham Hutton's
+-- using the Caesar cipher.
+--
+-- The code is taken with permission directly from Graham Hutton's
 -- "Programming in Haskell", beginning at p.42.
 -- 
 --------------------------------------------------------------------------------
